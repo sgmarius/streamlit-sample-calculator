@@ -1,5 +1,5 @@
 import unittest
-from app.components.logic import CalculatorLogic
+from common.SampleCalculatorLogic.CalculatorLogic import CalculatorLogic
 
 class TestCalculatorLogic(unittest.TestCase):
 
